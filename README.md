@@ -2,7 +2,6 @@
 
 # Tic-Tac-Toe Week4
 
-M216964
 
 Instruction of Program  
 Tic-Tac-Toe   
